@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning java, html, css, js, python
 - 💞️ I’m looking to collaborate on java and python projects
 - 📫 How to reach me: enmanuel_duarte@outlook.com
+- www.linkedin.com/in/enmanuelduarteenergia
 
 <!---
 Abisais/Abisais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
