@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abisais
-- 👀 I’m interested in engineering, energy, programming
+- 👀 I’m interested in engineering and Data
 - 💞️ I’m looking to collaborate in Data driven projects
 - 📫 How to reach me: enmanuelduartecaceres@gmail.com
 - www.linkedin.com/in/enmanuelduarteenergia
