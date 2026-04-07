@@ -30,7 +30,7 @@ Como Magíster en Ingeniería, combino el rigor técnico con el análisis de dat
 ---
 *"Learning, working, and living!"*
 
-![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Abisais&show_icons=true&theme=radical)
+![Mis Estadísticas de GitHub](https://github-stats-alpha.vercel.app/api?username=Abisais&show_icons=true&theme=radical)
 <!---
 Abisais/Abisais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
