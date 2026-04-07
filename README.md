@@ -1,8 +1,8 @@
 # 👋 Hola, soy Enmanuel (Abisais) 
 
-### 🛠 Magister en Ingeniería | Estudiante de Data Science | Entusiasta de Linux (ZorinOS)
+### 🎓 Magíster en Ingeniería | Data Strategy & Analytics | Linux Enthusiast
 
-Me apasiona la intersección entre la ingeniería y el análisis de datos. Actualmente, estoy enfocado en transformar datos crudos en soluciones estratégicas, utilizando Python para la limpieza, validación y visualización de información compleja.
+Como Magíster en Ingeniería, combino el rigor técnico con el análisis de datos avanzado para resolver problemas complejos. Actualmente, estoy especializando mi stack tecnológico en Python y Estadística Aplicada para liderar proyectos orientados a la toma de decisiones estratégicas.
 
 ---
 
@@ -29,6 +29,8 @@ Me apasiona la intersección entre la ingeniería y el análisis de datos. Actua
 
 ---
 *"Learning, working, and living!"*
+
+![Mis Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Abisais&show_icons=true&theme=radical)
 <!---
 Abisais/Abisais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
