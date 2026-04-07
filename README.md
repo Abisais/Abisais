@@ -1,6 +1,6 @@
 # 👋 Hola, soy Enmanuel (Abisais) 
 
-### 🛠 Ingeniero | Estudiante de Data Science | Entusiasta de Linux (ZorinOS)
+### 🛠 Magister en Ingeniería | Estudiante de Data Science | Entusiasta de Linux (ZorinOS)
 
 Me apasiona la intersección entre la ingeniería y el análisis de datos. Actualmente, estoy enfocado en transformar datos crudos en soluciones estratégicas, utilizando Python para la limpieza, validación y visualización de información compleja.
 
